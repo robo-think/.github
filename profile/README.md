@@ -4,4 +4,4 @@ A reasoning agent watches the robot and talks to its policy through two channels
 
 - Project page: [robo-think.github.io](https://robo-think.github.io)
 - Code: [robo-think/RoboThink](https://github.com/robo-think/RoboThink)
-- Paper: coming soon
+- Paper: [arXiv:2611.30111](https://arxiv.org/abs/2611.30111)
